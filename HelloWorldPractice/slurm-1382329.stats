@@ -1,0 +1,16 @@
++--------------------------------------------------------------------------+
+| Job on the BlueBEAR cluster:
+| Starting at Mon Jun 18 18:33:08 2018 for chc578(270943)
+| Identity jobid 1382329 jobname helloworld.sh
+| Running against project thompssj-chal18-02 and in partition sandybridge-all
+| Requested cpu=1,mem=5000M,node=1 - 00:05:00 walltime
+| Assigned to nodes bb2a4a01
+| Command /rds/projects/2018/thompssj-bear-chal18-02/bonus_a/HelloWorldPractice/helloworld.sh
+| WorkDir /rds/projects/2018/thompssj-bear-chal18-02/bonus_a/HelloWorldPractice
++--------------------------------------------------------------------------+
++--------------------------------------------------------------------------+
+| Finished at Mon Jun 18 18:33:12 2018 for chc578(270943) on the BlueBEAR Cluster
+| Required (00:02.740 cputime, 1184K memory used) - 00:00:04 walltime
+| JobState COMPLETING - Reason None
+| Exitcode 0:0
++--------------------------------------------------------------------------+
